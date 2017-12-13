@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">gagalery</string>
+    <string name="camera">Camera</string>
+    <string name="textDialog">Enter TAG for image search</string>
+   <string name="pixabay">Pixabay</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="photo">Photo</string>
+    <string name="video">Video</string>
+    <string name="gallery">Gallery</string>
+</resources>
